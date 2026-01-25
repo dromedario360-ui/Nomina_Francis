@@ -32,7 +32,7 @@ public class EmpleadoAsalariado : EmpleadoBase
     }
 }
 
-// Empleado por Horas
+
 public class EmpleadoPorHoras : EmpleadoBase
 {
     public decimal SueldoPorHora { get; set; }
@@ -91,4 +91,5 @@ public class Program
         }
     }
 }
+
 
